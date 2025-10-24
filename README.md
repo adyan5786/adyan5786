@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3BYNQxVDG/giphy.gif" alt="Coding Banner" width="100%">
-</p>
-
 <h1 align="center">
   Hi there! I'm Adyan 👋
 </h1>
@@ -69,12 +65,12 @@
 <h2>📊 My GitHub Stats</h2>
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=adyan5786&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true" 
     alt="GitHub Stats" 
     width="48%"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyan5786&layout=compact&theme=tokyonight&hide_border=true" 
     alt="Top Languages" 
     width="48%"
   />
