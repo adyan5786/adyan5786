@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there! I'm Adyan 👋
+  Hi there! I'm Adyan 🐢
 </h1>
 
 <br>
@@ -25,8 +25,6 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"> 
   </a>
-  <br><br>
-  <strong>Frontend & Mobile:</strong><br>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> 
   </a>
@@ -39,8 +37,6 @@
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> 
   </a>
-  <br><br>
-  <strong>Backend & Databases:</strong><br>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"> 
   </a>
@@ -53,8 +49,6 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"> 
   </a>
-  <br><br>
-  <strong>Tools:</strong><br>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> 
   </a>
